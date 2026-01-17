@@ -1,7 +1,7 @@
 # Hi, I'm Taru Sharma 👋
 Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 
-[GitHub](https://github.com/Taru-Sharma0503) | [LinkedIn](https://www.linkedin.com/in/taru-sharma) | 📧 ps9667279@gmail.com
+[GitHub](https://github.com/Taru-Sharma0503) | [LinkedIn](www.linkedin.com/in/taru-sharma-304b98381) | 📧 ps9667279@gmail.com
 
 ---
 
