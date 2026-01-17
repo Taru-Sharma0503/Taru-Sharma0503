@@ -7,15 +7,15 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 
 ## 🚀 Featured Projects
 
-### 1. [Restaurant WebPage Design](https://github.com/Taru-Sharma0503/restaurant-webpage)
+### 1. [Restaurant WebPage Design](https://github.com/Taru-Sharma0503/Restaurant-Webpage-Design)
 *HTML, CSS, JavaScript*  
 - Responsive restaurant website with menu, contact, and reservation features.
 
-### 2. [File Encryption / Decryption Tool](https://github.com/Taru-Sharma0503/file-encryption)
+### 2. [File Encryption / Decryption Tool](https://github.com/Taru-Sharma0503/File-encryption-and-decryption)
 *Python, File Handling*  
 - Caesar Cipher-based tool to encrypt/decrypt text files.
 
-### 3. [Weather API Integration](https://github.com/Taru-Sharma0503/weather-api)
+### 3. [Weather API Integration](https://github.com/Taru-Sharma0503/API-Integration)
 *Python, Requests*  
 - Weather app displaying city, temperature, humidity, and pressure from external APIs.
 
