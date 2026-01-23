@@ -7,7 +7,7 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 
 ## 🚀 Featured Projects
 
-### 1. [Restaurant WebPage Design](https://github.com/Taru-Sharma0503/Restaurant-Webpage-Design)
+### 1. [Flavour Loft-A fictional restaurant website](https://github.com/Taru-Sharma0503/Restaurant-Webpage-Design)
 *HTML, CSS, JavaScript*  
 - Responsive restaurant website with menu, contact, and reservation features.
 
