@@ -16,9 +16,8 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 - Caesar Cipher-based tool to encrypt/decrypt text files.
 
 ### 3. [Weather API Integration](https://github.com/Taru-Sharma0503/API-Integration)
-*Python, Requests*  
-- Weather app displaying city, temperature, humidity, and pressure from external APIs.
-
+*HTML, CSS, JavaScript, REST API, JSON*  
+- Developed a responsive weather web app that displays real-time city-based data including temperature, humidity, pressure, and weather conditions.
 ---
 
 ## 🛠 Skills
