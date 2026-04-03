@@ -7,13 +7,13 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 
 ## 🚀 Featured Projects
 
-### 1. [Flavour Loft-A fictional restaurant website](https://github.com/Taru-Sharma0503/Restaurant-Webpage-Design)
+### 1. [StudyMate-Student Companion]()
+*HTML,CSS,JavaScript,React*  
+- A student companion website with features to manage study resources.
+
+### 2. [Flavour Loft-A fictional restaurant website](https://github.com/Taru-Sharma0503/Restaurant-Webpage-Design)
 *HTML, CSS, JavaScript*  
 - Responsive restaurant website with menu, contact, and reservation features.
-
-### 2. [File Encryption / Decryption Tool](https://github.com/Taru-Sharma0503/File-encryption-and-decryption)
-*Python, File Handling*  
-- Caesar Cipher-based tool to encrypt/decrypt text files.
 
 ### 3. [Weather API Integration](https://github.com/Taru-Sharma0503/API-Integration)
 *HTML, CSS, JavaScript, REST API, JSON*  
