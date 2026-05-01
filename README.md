@@ -23,10 +23,11 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 ## 🛠 Skills
 
 **Languages:** Python, Java, C  
-**Web:** HTML, CSS, JavaScript  
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** Node.js,Express.js,MongoDB
 **Frameworks:** React 
 **Tools:** Git, GitHub, VS Code  
-**Core CS:** OOP, Basic DSA  
+**Core CS:** OOP, DSA  
 
 ---
 
