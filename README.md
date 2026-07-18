@@ -7,7 +7,7 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 
 ## 🚀 Featured Projects
 
-### 1. [StudyMate-AI Student Companion]([https://github.com/Taru-Sharma0503/StudyMate-Student-Companion](https://github.com/Taru-Sharma0503/StudyMate))
+### 1. [StudyMate-AI Student Companion](https://github.com/Taru-Sharma0503/StudyMate))
 *React, Node.js, Express.js, MongoDB, JWT, Gemini API*  
 - A student companion website with features to manage study resources.
 
