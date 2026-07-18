@@ -7,8 +7,8 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 
 ## 🚀 Featured Projects
 
-### 1. [StudyMate-Student Companion](https://github.com/Taru-Sharma0503/StudyMate-Student-Companion)
-*HTML,CSS,JavaScript,React*  
+### 1. [StudyMate-AI Student Companion]([https://github.com/Taru-Sharma0503/StudyMate-Student-Companion](https://github.com/Taru-Sharma0503/StudyMate))
+*React, Node.js, Express.js, MongoDB, JWT, Gemini API*  
 - A student companion website with features to manage study resources.
 
 ### 2. [Flavour Loft-A fictional restaurant website](https://github.com/Taru-Sharma0503/Restaurant-Webpage-Design)
@@ -22,25 +22,17 @@ Aspiring Software Developer | B.Tech CSE Student at KIET,Ghaziabad
 
 ## 🛠 Skills
 
-**Languages:** Python, Java, C  
+**Languages:** Python, Java, C, JavaScript, HTML, CSS 
 
-**Frontend:** HTML, CSS, JavaScript  
+**Frontend:** React, Responsive Web Design, DOM Manipulation  
 
-**Backend:** Node.js,Express.js,MongoDB
+**Backend:** Node.js, Express.js, MongoDB, JWT Authentication
 
-**Frameworks:** React 
+**Libraries and APIs:** REST APIs, JSON, Google Gemini API
 
-**Tools:** Git, GitHub, VS Code  
+**Tools:** Git, GitHub, VS Code, Vercel, Render 
 
-**Core CS:** OOP, DSA  
+**Core CS:** Object-Oriented Programming, Data Structures
 
 ---
-
-## 💼 Experience
-
-**Python Intern – InternPe** | Dec 2025 – Jan 2026  
-- Developed Python mini-projects and improved debugging skills.  
-
-**Python Intern – CodVeda** | Nov 2025 – Dec 2025  
-- Built Python applications like To-Do List & Data Scraper using BeautifulSoup and Requests.  
 
